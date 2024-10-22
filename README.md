@@ -26,3 +26,7 @@ This project is an Online Learning Management System (LMS) built using WordPress
 - **Instructor Dashboard**: Manage courses, track student progress, and handle payments.
 - **Quiz Page**: Interactive quizzes with instant results.
 - **Community Forums** (optional): Engage with fellow students using discussion forums via Ultimate Member.
+
+### Trello Link : [Trello](https://trello.com/b/n3NAlO6v/wordpress)
+
+### Figma Link : [Figma](https://www.figma.com/design/OdXRurOj03f2mECihr2Xap/Untitled?node-id=0-1&node-type=canvas&t=F46iLZ93yVqdfAC7-0)
